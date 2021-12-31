@@ -4,7 +4,9 @@ import Home from '../src/components/page/Home'
 
 function App() {
   return (
+    <div className="root">
     <Home/>
+    </div>
   );
 }
 

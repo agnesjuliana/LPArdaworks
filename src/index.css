@@ -1,13 +1,73 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+.root{
+  background-image: url(./assets/bg-main1.jpg);
+}
+.logo{
+  width: 15rem;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.titleMain1{
+  text-align: center;
+  font-weight: 900;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 3rem;
+}
+.rootMain1{
+  margin-top: 4rem;
+}
+
+.descTitleMain1{
+  text-align: center;
+  font-weight: 300;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 1.25rem;
+  margin-top: 2rem;
+}
+.desc2TitleMain1{
+  text-align: center;
+  font-weight: 300;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 1.25rem;
+  margin-bottom: 2rem;
+}
+
+.buttonMain1{
+  width: 15rem;
+}
+
+
+.main1Pic{
+  width: 100%;
+  height: auto;
+}
+
+.WrapPicMain1{
+  margin-top: 3rem;
+}
+
+.Main1Part2{
+  margin-top: 3rem;
+}
+
+.Main1Part2-1{
+  margin-top: 2rem;
+}
+
+.titleMain1-2{
+  text-align: center;
+  font-weight: 900;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 2rem;
+}
+
+.descTitleMain1-2{
+  text-align: center;
+  font-weight: 300;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 1rem;
+  margin-top: 2rem;
+}
+
+.processMain1{
+  width: 30%;
+  height: auto;
 }
